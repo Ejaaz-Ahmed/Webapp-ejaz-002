@@ -1,0 +1,12 @@
+{
+  "name": "midexam",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.0.0 <23"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
